@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Enemy\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Enemy()
+comment1.text=\r\n\ Konstruktor\ Enemy\ -\ dijalankan\ saat\ objek\ musuh\ dibuat.\r\n\ Di\ sini\ gambar\ musuh\ ditetapkan.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Method\ act()\ dijalankan\ berulang\ kali\ oleh\ Greenfoot.\r\n\ Mengatur\ pergerakan\ musuh\ dan\ pembalikan\ arah\ saat\ mencapai\ tepi\ dunia.\r\n
+comment3.params=
+comment3.target=boolean\ isCounted()
+comment3.text=\r\n\ Method\ getter\ untuk\ memeriksa\ apakah\ musuh\ sudah\ dihitung\ dalam\ skor.\r\n\ Digunakan\ di\ kelas\ Mario\ agar\ skor\ tidak\ bertambah\ dua\ kali\ untuk\ musuh\ yang\ sama.\r\n
+comment4.params=value
+comment4.target=void\ setCounted(boolean)
+comment4.text=\r\n\ Method\ setter\ untuk\ menandai\ bahwa\ musuh\ sudah\ dilewati\ dan\ dihitung\ skor-nya.\r\n
+numComments=5

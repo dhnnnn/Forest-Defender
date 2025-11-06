@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Karakter
+comment0.text=\r\n\ Karakter\ dengan\ gerak\ kiri/kanan,\ animasi,\ lompat,\ dan\ serangan\ pedang.\r\n
+comment1.params=
+comment1.target=Karakter()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ handleInput()
+comment4.params=
+comment4.target=void\ handleAttack()
+comment5.params=
+comment5.target=void\ applyGravity()
+comment6.params=
+comment6.target=void\ updateAnimation()
+comment7.params=
+comment7.target=void\ checkEnemyCollisionAndPassing()
+numComments=8

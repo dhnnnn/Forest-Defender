@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Score\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Score()
+comment1.text=\r\n\ Konstruktor\ Score\ -\ dipanggil\ saat\ objek\ skor\ dibuat\ di\ dunia.\r\n\ Langsung\ memanggil\ updateImage()\ untuk\ menampilkan\ skor\ awal\ (0).\r\n
+comment2.params=value
+comment2.target=void\ addScore(int)
+comment2.text=\r\n\ Method\ addScore()\ menambah\ nilai\ skor\ sesuai\ dengan\ parameter\ "value".\r\n\ Setelah\ skor\ berubah,\ teks\ di\ layar\ diperbarui.\r\n
+comment3.params=
+comment3.target=void\ updateImage()
+comment3.text=\r\n\ Method\ updateImage()\ memperbarui\ tampilan\ teks\ skor\ di\ layar.\r\n\ Menggunakan\ GreenfootImage\ untuk\ menggambar\ teks\ baru\ setiap\ kali\ skor\ berubah.\r\n
+numComments=4
