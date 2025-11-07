@@ -1,3 +1,5 @@
+<img src="images/Tumbnail.PNG" style="" />
+
 # 🌿 Forest Defender
 
 **Forest Defender** adalah game platformer 2D yang dikembangkan menggunakan **Greenfoot**.  
